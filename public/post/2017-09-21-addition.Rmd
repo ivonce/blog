@@ -1,0 +1,19 @@
+---
+title: Addition
+author: Ivona Plecevic
+date: '2017-09-21'
+slug: addition
+categories:
+  - Mathematics
+  - R
+tags:
+  - Addition
+---
+
+Let's do some addition:
+```{r}
+x<-4
+y<-3
+x+y
+```
+
